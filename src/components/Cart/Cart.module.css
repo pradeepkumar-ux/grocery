@@ -23,6 +23,7 @@
   }
   
   .actions button {
+    margin-top: 10px;
     font: inherit;
     cursor: pointer;
     background-color: transparent;
@@ -37,6 +38,11 @@
     background-color: #5a1a01;
     border-color: #5a1a01;
     color: white;
+  }
+  .offers button{
+    background-color: #5a1a01;
+    color: white;
+    border-radius: 5px;
   }
   
   .actions .button--alt {
